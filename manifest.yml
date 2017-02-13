@@ -1,7 +1,7 @@
 ---
 applications:
 - services:
-  - myMicroservicesCloudant
+  - myDemoMicroservicesCloudant
   name: MicroservicesCatalogAPI
   buildpack: sdk-for-nodejs
   memory: 128m
